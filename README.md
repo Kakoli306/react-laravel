@@ -51,8 +51,6 @@ A crud based laravel app to learn how to integrate react and other important rea
 - Provide db name, username and password in .env
 - Run ```php artisan migrate --seed```
 
-## Author ##
-Ariful Alam (https://arifszn.github.io)
 
 ***
 > Feel free to create an issue if you face any problem or need any help.
